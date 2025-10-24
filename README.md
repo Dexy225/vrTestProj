@@ -1,8 +1,8 @@
 # 🛡️ The Defender
 
 **A VR Arcade Defense Game**  
-*Developed by [Dexter Dykeman](https://github.com/DexterDykeman) & Mukund Gajjar*  
-Course: **AVR550 – Game Development Project**
+*Developed by [Dexter Dykeman](https://github.com/Dexy225)*  
+
 
 ![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity)
 ![C#](https://img.shields.io/badge/Language-C%23-blue)
@@ -78,34 +78,12 @@ If enemies breach it, **it’s game over** — but every successful wave earns *
 - **Engine:** Unity (XR Interaction Toolkit)  
 - **Language:** C#  
 - **Platform:** PC VR  
-- **Version Control:** Git & GitHub  
-
----
-
-## 🧰 Assets & Requirements
-
-### 🎨 3D Models
-- Gun and Shield  
-- Outdoor Environment  
-- Goal Post / Defense Zone  
-
-### 🔊 Sound
-- Gunfire and shield SFX  
-- Enemy death and attack sounds  
-- Background music and scoring feedback  
-
-### 🧩 Code Systems
-- Player weapon and shield logic  
-- Enemy AI (movement, target detection, attack)  
-- Scoring & high-score tracking  
-- Goal post collision and defense logic  
-- Wave spawning & progression  
-
+- **Version Control:** Git & GitHub
+  
 ---
 
 ## 🚧 Roadmap / Future Plans
 
-- [ ] Add leaderboard with persistent high scores  
 - [ ] Introduce new enemy types and boss waves  
 - [ ] Add haptic feedback for immersion  
 - [ ] Implement power-ups and upgrades  
@@ -113,15 +91,7 @@ If enemies breach it, **it’s game over** — but every successful wave earns *
 
 ---
 
-## 🧾 License
-
-© 2025 **Dexter Dykeman & Mukund Gajjar**  
-This project was created for academic purposes under the **AVR550 Game Development** course.  
-All rights reserved. Please contact the authors for permission to reuse or modify assets/code.
-
----
-
-## 📸 Screenshots (Coming Soon)
+## 📸 Screenshots
 
 | Gameplay | Defense Zone |
 |-----------|---------------|
@@ -129,11 +99,3 @@ All rights reserved. Please contact the authors for permission to reuse or modif
 
 ---
 
-### 💬 Connect
-
-👤 **Dexter Dykeman** – [GitHub](https://github.com/DexterDykeman)  
-🎓 **Mukund Gajjar** – (Link TBD)  
-
----
-
-> *“The best offense is a strong defense — especially when you’re holding both.”*
